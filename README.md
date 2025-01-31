@@ -28,6 +28,7 @@
    Если у вас есть проблемы с совместимостью, ищите в интернете - как установить aiogram 3.15.0 версии для "своего" дистрибутива
    
    Установите [git](https://git-scm.com/downloads) если не установлен
+   
    или для Linux систем
    ```zsh
    sudo apt-get install git
@@ -60,6 +61,7 @@
 3. <b>Настройка</b>
 
    Заходим в файл setup.py
+   
    Должно быть что-то вроде этого
    ```python
    import sqlite3
@@ -92,6 +94,7 @@
 4. <b>Запуск</b>
 
    Установите [python](https://www.python.org/downloads/) если ещё не установлен
+   
    для Linux
    ```zsh
    sudo emerge --ask dev-lang/python
@@ -128,7 +131,11 @@
    
    (согласен что превью "фу", сделано на коленках. Но я не дизайнер, поэтому по быстрому в блендере сделал)
 ## Полезные ссылки
+
 [aiogram](https://docs.aiogram.dev/en/v3.15.0/)
+
 [python](https://www.python.org/)
+
 [git](https://git-scm.com/)
+
 [BotFather](https://t.me/BotFather)
